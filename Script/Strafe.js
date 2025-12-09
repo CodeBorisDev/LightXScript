@@ -1,4 +1,4 @@
-// Script: ModuleStrafe
+// Script: Module Strafe
 // Description: Strafe into different directions while you're midair or on ground.
 console.log("=== Loading Strafe Module ===");
 
