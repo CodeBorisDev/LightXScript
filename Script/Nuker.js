@@ -3,7 +3,7 @@
 
 console.log("=== Loading Nuker Module ===");
 
-const nuker = module.register("Nuker", "Breaks blocks around you", "WORLD");
+const nuker = module.register("Nuker", "Breaks blocks around you", "PLAYER");
 
 const range = nuker.addNumber("Range", 4.0, 1.0, 6.0, false);
 const delay = nuker.addNumber("Delay", 0, 0, 10, true);
