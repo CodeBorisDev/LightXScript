@@ -1,11 +1,11 @@
 ScriptAPI.registerScript({
-  name: "Scaffold",
+  name: "Scaffold_Test",
   version: "3.0",
   author: "LightX",
 });
 
 var mod = ScriptAPI.registerModule({
-  name: "Scaffold",
+  name: "Scaffold_Test",
   description: "Places blocks beneath you while walking",
   category: "MOVEMENT",
 });
