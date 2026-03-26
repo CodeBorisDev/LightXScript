@@ -1,11 +1,11 @@
 ScriptAPI.registerScript({
-  name: "WorldESP",
+  name: "WorldESP_Test",
   version: "1.0",
   author: "LightX",
 });
 
 const mod = ScriptAPI.registerModule({
-  name: "WorldESP",
+  name: "WorldESP_Test",
   description: "ESP with 3D, 2D",
   category: "VISUAL",
 });
